@@ -1,7 +1,7 @@
 Google Sign in using Firebase with Jetpack compose.
 The Android native Application created with Firebase Gmail Login.
 
-Used Components:
+**Used Components:**
 
 •	Firebase Authentication
 •	Jetpack Compose
@@ -9,11 +9,11 @@ Used Components:
 •	Coil
 •	Navigation
 
-Firebase Products:
+**Firebase Products:**
 Firebase Authentication
 
 
-N0te : Create new Project in Fire base and enable Gmail login.
+Note : Create new Project in Fire base and enable Gmail login.
 1) Download google-services.json
 2) Add web client app id and replace with google_gmail_login and run the application 
 
