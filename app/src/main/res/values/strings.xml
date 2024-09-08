@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GoogleLogin</string>
+    <string name="google_gmail_login">add web client id from Fire base</string>
+    <string name="welcome_splash">Welcome</string>
+    <string name="name">Name</string>
+    <string name="email_id">Email Id</string>
+    <string name="logout">Log out</string>
+    <string name="ok_button">Ok</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="exit_app">Are you sure you want to exit the app?</string>
+    <string name="logout_app">Are you sure you want to Log out?</string>
+    <string name="google_signin">Google Sign in</string>
+    <string name="login_with_google">Login with google</string>
+    <string name="developer_txt">Android Native App Learning 2024</string>
+</resources>

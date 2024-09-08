@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "762487139433",
+    "project_id": "holy-ea7e7",
+    "storage_bucket": "holy-ea7e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7624139433:android:7d4a68",
+        "android_client_info": {
+          "package_name": "com.raja.jetpackcompose"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ9_vUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
